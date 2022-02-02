@@ -4,4 +4,9 @@ Commit :  Takes everything from the staging area and makes a permanent snapshot 
 Push : To add the changes to your git repo files on your computer to the version of your repository on GitHub, you need to push them GitHub
 
 
+ 
 Discard Hunk : remove the changes without trace
+ 
+Branch : Use a branch to isolate development work without affecting other branches in the repository
+Checkout : A "checkout" is the act of switching between different versions of a target entity.
+ 
